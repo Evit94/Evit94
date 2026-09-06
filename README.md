@@ -1,14 +1,13 @@
-### Salut, je suis Eric 👋
+### Eric EUNG — Data Science & AI Engineering Student
 
-Étudiant ingénieur en 4ᵉ année à l'**EFREI Paris**, spécialisation **Data Science & IA**.
-Je construis des pipelines de données et des modèles de Machine Learning / Deep
-Learning de bout en bout — de l'extraction de données brutes jusqu'à une
-interface consultable.
+4th-year engineering student at **EFREI Paris**, specializing in **Data Science
+& AI**. I build end-to-end data pipelines and Machine Learning / Deep Learning
+models — from raw data extraction to a usable interface.
 
-- 🔭 En ce moment : cybersécurité data-driven (enrichissement de CVE) et deep
-  learning appliqué à l'imagerie médicale
-- 🌱 J'apprends : PyTorch avancé, MLOps, et les modèles vision-langage (VLM)
-- 💬 Discutons de data science, ML, cybersécurité ou EFREI
+- 🔭 Currently working on: data-driven cybersecurity (CVE enrichment) and deep
+  learning applied to medical imaging
+- 🌱 Learning: advanced PyTorch, MLOps, and vision-language models (VLMs)
+- 💬 Ask me about data science, ML, cybersecurity, or EFREI
 
 ## 🛠️ Stack
 
@@ -22,13 +21,13 @@ interface consultable.
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 🚀 Projets phares
+## 🚀 Featured projects
 
-| Projet | Description |
+| Project | Description |
 |---|---|
-| [**Data_Science**](https://github.com/Evit94/Data_Science) | Pipeline cybersécurité : collecte des bulletins ANSSI, enrichissement des CVE (CVSS/CWE/EPSS), Machine Learning (KMeans, RandomForest) et mini-dashboard Django pour prioriser les vulnérabilités. |
-| [**Projet-ML**](https://github.com/Evit94/Projet-ML) | Réseaux de neurones implémentés à la main avec NumPy puis CNN PyTorch, sur MNIST, CIFAR-10 et un cas médical réel (CBIS-DDSM), avec analyse critique des résultats. |
+| [**Data_Science**](https://github.com/Evit94/Data_Science) | Cybersecurity pipeline: collects ANSSI security bulletins, enriches CVEs (CVSS/CWE/EPSS), applies Machine Learning (KMeans, RandomForest), and ranks critical vulnerabilities in a mini Django dashboard. |
+| [**Projet-ML**](https://github.com/Evit94/Projet-ML) | Neural networks built from scratch with NumPy, then CNNs with PyTorch, applied to MNIST, CIFAR-10, and a real medical use case (CBIS-DDSM), with a critical analysis of the results. |
 
-## 📫 Me contacter
+## 📫 Contact
 
-- GitHub : [@Evit94](https://github.com/Evit94)
+- GitHub: [@Evit94](https://github.com/Evit94)
