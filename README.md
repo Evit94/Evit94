@@ -1,4 +1,4 @@
-### Eric EUNG — Data Science & AI Engineering Student
+### Eric EUNG - Data Science & AI Engineering Student
 
 4th-year engineering student at **EFREI Paris**, specializing in **Data Science
 & AI**. I build end-to-end data pipelines and Machine Learning / Deep Learning
