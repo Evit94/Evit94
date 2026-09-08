@@ -32,4 +32,4 @@ models — from raw data extraction to a usable interface.
 
 - GitHub: [@Evit94](https://github.com/Evit94)
 - Mail : eric.eung.2005@outlook.fr
-- Linkedin : (https://www.linkedin.com/in/eric-eung-b25b7b291/)
+- Linkedin : https://www.linkedin.com/in/eric-eung-b25b7b291/
